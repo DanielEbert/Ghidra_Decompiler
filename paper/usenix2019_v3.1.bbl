@@ -1,0 +1,131 @@
+\begin{thebibliography}{10}
+
+\bibitem{17}
+Dennis Andriesse.
+\newblock {\em Practical Binary Analysis}.
+\newblock USA, 2018.
+
+\bibitem{2}
+Dennis Andriesse, Xi~Chen, Victor van~der Veen, Asia Slowinska, and Herbert
+  Bos.
+\newblock An in-depth analysis of disassembly on full-scale x86/x64 binaries.
+\newblock In {\em 25th {USENIX} Security Symposium ({USENIX} Security 16)},
+  pages 583--600, Austin, TX, August 2016. {USENIX} Association.
+\newblock URL:
+  \url{https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/andriesse}.
+
+\bibitem{9}
+{Chase Kanipe}.
+\newblock Ghidra decompiler design writeup, 2021.
+\newblock URL: \url{http://chasekanipe.com/writeups/ghidra.pdf}.
+
+\bibitem{14}
+{Danny Quist}.
+\newblock Reverse engineering gootkit with ghidra part i - enable entropy
+  visualization, 2019.
+\newblock URL: \url{https://dannyquist.github.io/gootkit-reversing-ghidra/}.
+
+\bibitem{22}
+Chris Eagle.
+\newblock {\em The IDA Pro Book: The Unofficial Guide to the World's Most
+  Popular Disassembler}.
+\newblock No Starch Press, USA, 2011.
+
+\bibitem{12}
+Eldad Eilam.
+\newblock {\em Reversing: Secrets of Reverse Engineering}.
+\newblock USA, 2005.
+
+\bibitem{8}
+{Ghidra Developers}.
+\newblock Decompiler analysis engine, 2021.
+\newblock URL:
+  \url{https://github.com/NationalSecurityAgency/ghidra/blob/da94eb86bd2b89c8b0ab9bd89e9f0dc5a3157055/Ghidra/Features/Decompiler/src/decompile/cpp/docmain.hh}.
+
+\bibitem{18}
+{Ghidra Developers}.
+\newblock Decompiler intro, 2021.
+\newblock URL:
+  \url{https://fossies.org/linux/ghidra/Ghidra/Features/Decompiler/src/main/help/help/topics/DecompilePlugin/DecompilerIntro.html}.
+
+\bibitem{13}
+{Ghidra Developers}.
+\newblock Decompiler window, 2021.
+\newblock URL:
+  \url{https://fossies.org/linux/ghidra/Ghidra/Features/Decompiler/src/main/help/help/topics/DecompilePlugin/DecompilerWindow.html}.
+
+\bibitem{11}
+{Ghidra Developers}.
+\newblock Ghidra github coreaction.hh, 2021.
+\newblock URL:
+  \url{https://github.com/NationalSecurityAgency/ghidra/blob/4e16b3aa3a649b87a54a6e43a5c01360fd255a83/Ghidra/Features/Decompiler/src/decompile/cpp/coreaction.hh}.
+
+\bibitem{5}
+{Ghidra Developers}.
+\newblock Ghidra processors, 2021.
+\newblock URL:
+  \url{https://github.com/NationalSecurityAgency/ghidra/tree/master/Ghidra/Processors}.
+
+\bibitem{21}
+{Ghidra Developers}.
+\newblock Github checknonreturningindicators funktion, 2021.
+\newblock URL:
+  \url{https://github.com/NationalSecurityAgency/ghidra/blob/da94eb86bd2b89c8b0ab9bd89e9f0dc5a3157055/Ghidra/Features/Base/src/main/java/ghidra/app/plugin/core/analysis/FindNoReturnFunctionsAnalyzer.java#L486}.
+
+\bibitem{19}
+{Ghidra Developers}.
+\newblock Github ghidra readme.md, 2021.
+\newblock URL: \url{https://github.com/NationalSecurityAgency/ghidra}.
+
+\bibitem{15}
+{Ghidra Developers}.
+\newblock Improving disassembly and decompilation, 2021.
+\newblock URL:
+  \url{https://ghidra.re/courses/GhidraClass/Advanced/improvingDisassemblyAndDecompilation.pdf}.
+
+\bibitem{4}
+{Ghidra Developers}.
+\newblock P-code reference manual, 2021.
+\newblock URL: \url{https://ghidra.re/courses/languages/html/pcoderef.html}.
+
+\bibitem{10}
+{Ghidra Developers}.
+\newblock Program annotations affecting the decompiler, 2021.
+\newblock URL:
+  \url{https://fossies.org/linux/ghidra/Ghidra/Features/Decompiler/src/main/help/help/topics/DecompilePlugin/DecompilerAnnotations.html}.
+
+\bibitem{1}
+{Ghidra Developers}.
+\newblock Program annotations affecting the decompiler, 2021.
+\newblock URL:
+  \url{https://github.com/NationalSecurityAgency/ghidra/blob/3b867b3444afa0d979aab467dcfa901ee6585e14/Ghidra/Features/Decompiler/src/main/help/help/topics/DecompilePlugin/DecompilerAnnotations.html}.
+
+\bibitem{7}
+{Ghidra Developers}.
+\newblock Sleight, 2021.
+\newblock URL: \url{http://ghidra.re/courses/languages/html/sleigh.html}.
+
+\bibitem{16}
+{Ilfak Guilfanov et al.}
+\newblock Advantages of the decompiler, 2021.
+\newblock URL: \url{https://hex-rays.com/decompiler/}.
+
+\bibitem{6}
+{Omar Darwish}.
+\newblock What're you telling me, ghidra?, 2020.
+\newblock URL:
+  \url{https://byte.how/posts/what-are-you-telling-me-ghidra/#cross-references}.
+
+\bibitem{3}
+Chengbin Pang, Ruotong Yu, Yaohui Chen, Eric Koskinen, Georgios Portokalidis,
+  Bing Mao, and Jun Xu.
+\newblock Sok: All you ever wanted to know about x86/x64 binary disassembly but
+  were afraid to ask, 2020.
+\newblock \href {http://arxiv.org/abs/2007.14266} {\path{arXiv:2007.14266}}.
+
+\bibitem{20}
+{threatrack et al.}
+\newblock Ghidra function id dataset repository, 2021.
+\newblock URL: \url{https://github.com/threatrack/ghidra-fidb-repo}.
+
+\end{thebibliography}

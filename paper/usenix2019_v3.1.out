@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Einleitung}{}% 1
+\BOOKMARK [1][-]{section.2}{Ghidra Decompiler Funktionsweise}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Disassembly}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Assembler zu P-Code \334bersetzung}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{P-Code Optimierung}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{P-Code zu C Tokens}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Typische Probleme bei der Dekompilation}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Instruktionen als Daten identifiziert}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Disassembly schl\344gt fehl}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Funktion wird nicht erkannt}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Funktion ohne Return}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.5}{Datentyp}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.6}{Funktionsprototyp}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.7}{Anti-Decompile Technik}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.8}{Data Mutability}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.9}{Probleme im Code}{section.3}% 16
